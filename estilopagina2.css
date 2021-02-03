@@ -1,0 +1,19 @@
+main{
+    background-image: url('img/foto16.jpg');
+    background-repeat: no-repeat;
+    text-align: left;
+    background-size: 1350px 620px;
+    }
+    h1{
+        font-weight: bold;
+        text-align: center;
+    }
+    h3{
+        font-style: italic;
+        font-weight: bold;
+        font-size: 20px;
+        color:#000000 ;
+    }
+    h4{
+        text-align: center;
+    }

@@ -27,7 +27,8 @@ footer{
 }
 
 h1{
-    font-family: 'Handlee', cursive;
+    font-weight: normal;
+    font-weight: bold;
     text-align: center;
     font-size: 32px;
 }
