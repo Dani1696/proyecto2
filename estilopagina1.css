@@ -1,0 +1,49 @@
+
+main{
+background-image: url('img/foto12.jpg');
+background-repeat: no-repeat;
+text-align: left;
+background-size: 1400px 720px;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    
+}
+
+video{
+
+    height: 600px;
+    width:500px;
+}
+
+header{
+
+    background-color: #CD853F;
+}
+
+footer{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Handlee', cursive;
+    text-align: center;
+    font-size: 32px;
+}
+h6{
+    font-size:15px;
+    font-family: 'Handlee', cursive;
+}
+h2{
+   
+    font-size:23px;
+    font-family: 'Cedarville Cursive', cursive;
+}
+p{
+    font-size:20px;
+    font-family: 'Handlee', cursive;
+}
+h1{
+    font-family: 'Cedarville Cursive', cursive;
+}  
